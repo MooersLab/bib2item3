@@ -29,10 +29,9 @@ solution can be run with octave.
 
 
 ## Source of original script: 
-(https://tex.stackexchange.com/questions/124874/
-converting-to-bibitem-in-latex)
 
-Author of inspiring code: Ixy, a secretive tex stackexchange user.
+Author of inspiring [code](https://tex.stackexchange.com/questions/124874/converting-to-bibitem-in-latex)
+: Ixy, a secretive tex stackexchange user.
 
 
 ## USAGE
