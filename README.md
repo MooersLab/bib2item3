@@ -38,7 +38,7 @@ Author of inspiring [code](https://tex.stackexchange.com/questions/124874/conver
 
 bib2item3.py refs.bib
 
-#### Notes:
+## Notes:
 
 - The bib file should have only the citations that you want to include in your manuscript.
 - The names of the journals should have the proper abbreviations. 
