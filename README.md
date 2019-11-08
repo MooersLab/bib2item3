@@ -3,7 +3,7 @@
 ## DESCRIPTION
 
 Script to reformat bibtex reference library into bibitems for specific 
-scientific journals. 
+scientific journals. Supports only Protein Science at this time.
 
 
 ## BACKGROUND
@@ -18,13 +18,14 @@ repurposed for Protein Science and python3. It is not all inclusive. Many
 edge cases remain unaddressed. You will still have to check all references 
 manually.
 
-The are other solutions to this problem. You are supposed to be able to 
-generate at *.bbl file from your lib file by running latex, bibtex, latex,
-and latex on your bib file. The bbl file contains the bibitems. I recommend
+The are other solutions to this problem. You should be able to  generate a 
+*.bbl file from your lib file by running latex, bibtex, latex, and latex on 
+your bib file. The bbl file contains the bibitems. I recommend
 this approach whenever possible. It is superior to this solution. However,
 I had no luck with this approach at 1 AM on the night of manuscript submission.
 
-There is also matlab solution. I do not have access to matlab. 
+There is also matlab solution. I do not have access to matlab. Perhaps this 
+solution can be run with octave.
 
 
 ## Source of original script: 
