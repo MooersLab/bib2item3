@@ -178,7 +178,7 @@ def protein_science(bibtex):
                 else:
                   for LastFirst in authors.split(' and '):
                     lf = LastFirst.replace(' ', '').split(',')
-                    assert len(lf) == 2, "Author name has more or less than one comma " + ",".join(lf)
+                    assert len(lf) == 2, "Author name has more than one comma " + ",".join(lf)
                     last, first = lf[0], lf[1]
                     output_authors.append("{} {}".format(last, first))
               i += 1
