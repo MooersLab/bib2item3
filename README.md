@@ -62,7 +62,7 @@ bib2item3.py refs.bib
 
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.2 |  Added badges and update table                                                                                                             | 2024 May 7       |
+| Version 0.2 |  Added badges and update table. Corrected more typos. Merged pull request.                                                                       | 2024 May 7       |
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
