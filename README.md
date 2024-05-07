@@ -58,4 +58,14 @@ bib2item3.py refs.bib
 - develop test functions
 - improve error handling
 
+## Update history
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.2 |  Added badges and update table                                                                                                             | 2024 May 7       |
+
+## Funding
+- NIH: R01 CA242845, R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel); P20GM103640 and P30GM145423 (PI: A. West)
+
 
