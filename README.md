@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-Script to reformat Bibtex reference library into bibitems for specific 
+Script to reformat BibTeX reference library into bibitems for specific 
 scientific journals. Supports only Protein Science at this time.
 
 
